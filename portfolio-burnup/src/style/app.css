@@ -1,0 +1,60 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.highcharts-tooltip {
+    font-family:NotoSansBold;
+    color:white;
+}
+.tooltip-point {
+    text-align: right;
+    color: white;
+}
+.tooltip-label {
+    font-family:NotoSans;
+    white-space:nowrap;
+    font-size:13px;
+    color:white;
+}
+.etlDate {
+    color: grey;
+    font-family:NotoSans;
+    font-style: italic;
+}
+
+.ctlLabel {
+   font-family: ProximaNovaBold;
+   font-size: 11px;
+   text-transform: uppercase;
+   text-align: right;
+   font-weight: bold;
+   float: right;
+}
+
+.error-text {
+   color: #EE1C25;
+   font-family: ProximaNova, helvetica, sans-serif;
+   font-size: 12px;
+   text-align: center;
+}
+
+.non-error-text {
+  font-family: ProximaNova, helvetica, sans-serif;
+  font-size: 12px;
+  color: #888;
+  text-align: center;
+}
